@@ -1,0 +1,42 @@
+#+TITLE: Computer Programming Lab
+#+AUTHOR: Prof. T. R. Mahore
+
+- *Lab:* Cpmputer Programming Lab
+- *Year:* 1st
+- *Semester:* 1st/2nd
+- *Section:* A/B
+
+* Description
+This Repo Contains all the theory and solutions of programs for the following listed practicals of *Computer Programming Lab*. You will find a *Lab Manual* in this repo, it is recommended that before running the provided solution codes directly, go through the lab manual serialy and then try to implement the codes.
+
+* List of Practicals
+
+| Sr. No. | Practicals                                                                     |
+|---------+--------------------------------------------------------------------------------|
+|      1. | Fundamentals of Computer Hardware, Introduction to Programming Languages &     |
+|         | Translators, DOS/UNIX commands                                                 |
+|      2. | Algorithms & Flowcharts, Introduction to C, History, Steps of 2 Learning C,    |
+|         | C – Tokens, Data Types - Format Specifiers, I/O Statements, Structure of C     |
+|         | Program, Sample C Programs                                                     |
+|      3. | Operators in C, their Precedence and Associativity, Arithmetic Expressions/    |
+|         | Instructions, Type Casting, math.h functions, Sample C Programs                |
+|      4. | Control Statements (Conditional): If and its Variants, Switch (Break),         |
+|         | Sample C Programs                                                              |
+|      5. | Goto Statement, Control Statements (Looping): While, DoWhile, For Loop,        |
+|         | Continue and Break (Unconditional), Nested Loops, Sample C Programs            |
+|      6. | Arrays, One Dimensional Array: Declaration and Initialization, Accessing       |
+|         | Array Elements, Sample C Programs                                              |
+|      7. | Two Dimensional Array: Declaration and Initialization, Accessing Array         |
+|         | Elements, Sample C Programs                                                    |
+|      8. | Strings: Read & Write, “String.h” Predefined Functions, Sample C Progrmas      |
+|      9. | Pointers: Declarations, Types, Pointers to Arrays, Pointers to Character       |
+|         | Strings, Pointers to Pointers, Array to Poinnters                              |
+|     10. | Structures: Definition, Syntax, Nested Structures, Pointers to Structures,     |
+|         | Unions: Defination, Syntax                                                     |
+|     11. | Functions: Definition, Syntax, Terminology, Function Decleration,              |
+|         | Classification (Arguments & Return Types), Storage Classes, Sample C Programs  |
+|     12. | Parameter Passing Techniques, Passing Parameters Types, Recursion              |
+|     13. | Files: Definition, Opening, Closing of Files, Reading and Writing of Files,    |
+|         | Sample C Programs                                                              |
+|     14. | Binary Files, Random Accessing of Files, Enum, Typedef, Preprocessor Commands, |
+|         | Sample C Programs                                                              |
